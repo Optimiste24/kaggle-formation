@@ -1,2 +1,10 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+extensions filter=lfs diff=lfs merge=lfs -text
+aux filter=lfs diff=lfs merge=lfs -text
+de filter=lfs diff=lfs merge=lfs -text
+vos filter=lfs diff=lfs merge=lfs -text
+gros filter=lfs diff=lfs merge=lfs -text
+fichiers filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+Adaptez filter=lfs diff=lfs merge=lfs -text
